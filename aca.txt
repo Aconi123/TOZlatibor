@@ -1,5 +1,0 @@
-*Postavljena klasa "Active" kada se otvori taj link. ( promena boje teksta )
-
-*Logo - postavljen link ka pocetnoj stranici ( index.html )
-
-*
